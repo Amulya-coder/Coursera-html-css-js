@@ -4,25 +4,25 @@
 }
 
 body {
-    background-color: black;
+    background-color: #3F3F3F;
     
 }
 
 h1 {
     text-align: center;
-    color: Red;
+    color: #DE354C;
 }
 
 section {
     border: 1px solid black;
-    background-color: #a6c3df;
+    background-color: #12232E;
     margin: 10px;
 }
 
 section>h2 {
     float: right;
-    border-bottom: 1px solid black;
-    border-left: 1px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
     margin: 0;
     width: 230px;
     text-align: center;
@@ -42,7 +42,7 @@ section.item2>h2 {
 }
 
 section.item3>h2 {
-    color: #e2e2e2;
+    
     background-color: #e430b7;
 }
 
